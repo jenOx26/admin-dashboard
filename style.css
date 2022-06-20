@@ -154,6 +154,11 @@ button {
     align-items: center;
 }
 
+.announcement:not(:last-child) {
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+}
+
 .aPara, .tPara {
     font-size: 0.8rem;
 }
