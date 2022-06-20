@@ -47,6 +47,10 @@
     padding-right: 50px;
 }
 
+#notification {
+    padding-right: 15px;
+}
+
 .userInfo {
     display: flex;
     justify-content: start;
